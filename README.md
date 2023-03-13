@@ -1,6 +1,6 @@
 
 - 🔭 Pretendo trabalhar como Full-Stack
-- 🌱 No momento estou estudando JS/Vue.js
+- 🌱 No momento estou estudando JS/react/node
 - 📫 Contate-me no email: andremaurell3@gmail.com
 
 <div align="center">
