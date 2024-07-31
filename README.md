@@ -1,6 +1,5 @@
 
-- 🔭 Pretendo trabalhar como Full-Stack
-- 🌱 No momento estou estudando react/nextJS/nodeJS
+- 🌱 Engenheiro de software fullstack react/node.
 - 📫 Contate-me no email: andremaurell3@gmail.com
 
 <div align="center">
